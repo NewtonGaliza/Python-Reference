@@ -1,0 +1,4 @@
+pip<Python_version> install <package>
+
+ex:
+# pip3.4 install Pillow 
