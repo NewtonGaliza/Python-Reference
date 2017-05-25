@@ -1,0 +1,9 @@
+<filename>.py
+
+#!/usr/bin/env python
+'''
+code here
+'''
+
+$chmod +x <filename>.py
+$./<filename>.py
